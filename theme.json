@@ -2,8 +2,8 @@
 	"name": "Controller Prompts Galore",
 	"version": "v1.0",
 	"author": "ZeusOfTheCrows",
-	"target": "System-Wide",
-	"description": "description todo",
+	"target": "Tweak",
+	"description": "change controller button prompts. includes dualshock 3 & SNES",
 	"manifest_version": 3,
 	"inject": {
 		"global.css": [
@@ -22,7 +22,7 @@
 				},
 				"DS3": {
 					"ds3/ds3.css": [
-						"SP", "QuickAccess", "MainMenu"
+						"SP"
 					]
 				}
 			}
