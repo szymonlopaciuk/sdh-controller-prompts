@@ -125,6 +125,6 @@
 	}
 
 /* steam */
-img[src="/steaminputglyphs/shared_gyro.svg"]{
-	content: var(--gyro, url("/steaminputglyphs/shared_gyro.svg"));
-}
+	img[src="/steaminputglyphs/shared_gyro.svg"]{
+		content: var(--gyro, url("/steaminputglyphs/shared_gyro.svg"));
+	}
