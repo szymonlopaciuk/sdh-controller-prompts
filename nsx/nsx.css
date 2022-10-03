@@ -1,0 +1,11 @@
+/* for a list of all available variable names, check global.css */
+
+:root {
+	/* standard buttons */
+	--face-up:  url("/themes_custom/prompts-galore/nsx/imgs/shared_button_x.svg");
+	--face-dn:  url("/themes_custom/prompts-galore/nsx/imgs/shared_button_b.svg");
+	--face-lf:  url("/themes_custom/prompts-galore/nsx/imgs/shared_button_y.svg");
+	--face-rt:  url("/themes_custom/prompts-galore/nsx/imgs/shared_button_a.svg");
+	--menu-srt: url("/themes_custom/prompts-galore/nsx/imgs/sd_button_plus.svg");
+	--menu-slc: url("/themes_custom/prompts-galore/nsx/imgs/sd_button_minus.svg");
+}

@@ -15,12 +15,17 @@
 			"default": "SNES",
 			"type": "dropdown",
 			"values":{
-				"SNES": {
+				"Super NES": {
 					"snes/snes.css": [
 						"SP", "QuickAccess"
 					]
 				},
-				"DS3": {
+				"Switch": {
+					"nsx/nsx.css": [
+						"SP", "QuickAccess"
+					]
+				},
+				"Dualshock 3": {
 					"ds3/ds3.css": [
 						"SP", "QuickAccess"
 					]
