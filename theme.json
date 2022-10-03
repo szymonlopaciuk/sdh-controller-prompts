@@ -3,7 +3,7 @@
 	"version": "v1.0",
 	"author": "ZeusOfTheCrows",
 	"target": "Tweak",
-	"description": "change controller button prompts. includes dualshock 3 & SNES",
+	"description": "change controller button prompts. includes snes, switch, & dualshock 3 & 5",
 	"manifest_version": 3,
 	"inject": {
 		"global.css": [
@@ -25,8 +25,13 @@
 						"SP", "QuickAccess"
 					]
 				},
-				"Dualshock 3": {
+				"Dualshock [3]": {
 					"ds3/ds3.css": [
+						"SP", "QuickAccess"
+					]
+				},
+				"Dualsense [5]": {
+					"ds5/ds5.css": [
 						"SP", "QuickAccess"
 					]
 				}
