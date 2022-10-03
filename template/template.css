@@ -1,0 +1,114 @@
+	/* Button Icons. If you want to use the default then use the default steamglyph image path or just delete the variable*/
+
+:root {
+	/* standard buttons */
+	--face-up:  url("/themes_custom/sdh-cpg/snes/imgs/shared_button_x.svg");
+	--face-dn:  url("/themes_custom/sdh-cpg/snes/imgs/shared_button_b.svg");
+	--face-lf:  url("/themes_custom/sdh-cpg/snes/imgs/shared_button_y.svg");
+	--face-rt:  url("/themes_custom/sdh-cpg/snes/imgs/shared_button_a.svg");
+	--menu-srt: url("/themes_custom/sdh-cpg/snes/imgs/sd_button_menu.svg");
+	--menu-slc: url("/themes_custom/sdh-cpg/snes/imgs/sd_button_view.svg");
+
+	/* directional pad */
+	/*
+	--dpad-nu: url("/themes_custom/sdh-cpg/snes/imgs/32px/dpad.png");
+	--dpad-up: url("/themes_custom/sdh-cpg/snes/imgs/32px/dpup.png");
+	--dpad-dn: url("/themes_custom/sdh-cpg/snes/imgs/32px/dpdown.png");
+	--dpad-lf: url("/themes_custom/sdh-cpg/snes/imgs/32px/dpleft.png");
+	--dpad-rt: url("/themes_custom/sdh-cpg/snes/imgs/32px/dpright.png");
+	*/
+
+	/* back buttons/paddles */
+	/*
+	--back-lb: url("/themes_custom/sdh-cpg/snes/imgs/32px/l1.png");
+	--back-rb: url("/themes_custom/sdh-cpg/snes/imgs/32px/r1.png");
+	--back-lt: url("/themes_custom/sdh-cpg/snes/imgs/32px/l2.png");
+	--back-rt: url("/themes_custom/sdh-cpg/snes/imgs/32px/r2.png");
+
+	--back-rt-sf: url("/steaminputglyphs/sd_r2_half.svg");
+	--back-lt-sf: url("/steaminputglyphs/sd_l2_half.svg");
+
+	--grip-tl: url("/steaminputglyphs/sd_l4.svg");
+	--grip-bl: url("/steaminputglyphs/sd_l5.svg");
+	--grip-tr: url("/steaminputglyphs/sd_r4.svg");
+	--grip-br: url("/steaminputglyphs/sd_r5.svg");
+	*/
+
+	/* left stick */
+	/*
+	--lfst-cl: url("/themes_custom/sdh-cpg/snes/imgs/32px/l3.png");
+	--lfst-tc: url("/steaminputglyphs/shared_lstick_touch.svg");
+
+	--lfst-nu: url("/themes_custom/sdh-cpg/snes/imgs/32px/lstick.png");
+	--lfst-up: url("/themes_custom/sdh-cpg/snes/imgs/32px/lsup.png");
+	--lfst-dn: url("/themes_custom/sdh-cpg/snes/imgs/32px/lsdown.png");
+	--lfst-lf: url("/themes_custom/sdh-cpg/snes/imgs/32px/lsleft.png");
+	--lfst-rt: url("/themes_custom/sdh-cpg/snes/imgs/32px/lsright.png");
+	*/
+
+	/* right stick */
+	/*
+	--rfst-cl: url("/themes_custom/sdh-cpg/snes/imgs/32px/r3.png");
+	--rfst-tc: url("/steaminputglyphs/shared_rstick_touch.svg");
+
+	--rfst-nu: url("/themes_custom/sdh-cpg/snes/imgs/32px/rstick.png");
+	--rfst-up: url("/themes_custom/sdh-cpg/snes/imgs/32px/lsup.png");
+	--rfst-dn: url("/themes_custom/sdh-cpg/snes/imgs/32px/lsdown.png");
+	--rfst-lf: url("/themes_custom/sdh-cpg/snes/imgs/32px/lsleft.png");
+	--rfst-rt: url("/themes_custom/sdh-cpg/snes/imgs/32px/lsright.png");
+	*/
+
+	/* left trackpad */
+	/*
+	--lftp-cl: url("/steaminputglyphs/sd_ltrackpad_click.svg");
+	--lftp-rn: url("/steaminputglyphs/sd_ltrackpad_ring.svg");
+	--lftp-sw: url("/steaminputglyphs/sd_ltrackpad_swipe.svg");
+
+	--lftp-up: url("/steaminputglyphs/sd_ltrackpad_up.svg");
+	--lftp-dn: url("/steaminputglyphs/sd_ltrackpad_down.svg");
+	--lftp-lf: url("/steaminputglyphs/sd_ltrackpad_left.svg");
+	--lftp-rt: url("/steaminputglyphs/sd_ltrackpad_right.svg");
+	*/
+
+	/* left trackpad */
+	/*
+	--lftp-cl: url("/steaminputglyphs/sd_rtrackpad_click.svg");
+	--lftp-rn: url("/steaminputglyphs/sd_rtrackpad_ring.svg");
+	--lftp-sw: url("/steaminputglyphs/sd_rtrackpad_swipe.svg");
+
+	--lftp-up: url("/steaminputglyphs/sd_rtrackpad_up.svg");
+	--lftp-dn: url("/steaminputglyphs/sd_rtrackpad_down.svg");
+	--lftp-lf: url("/steaminputglyphs/sd_rtrackpad_left.svg");
+	--lftp-rt: url("/steaminputglyphs/sd_rtrackpad_right.svg");
+	*/
+
+	/* gyro */
+	/*
+	--gyro: url("/steaminputglyphs/shared_gyro.svg");
+	*/
+
+
+	/* Inline SVG Elements. Select if you  want the Stock Icons or Custom Icons.*/
+
+
+	/* SVG Ekement Filters */
+	/*--ICPMainMenuSvgColorFilter: none;*/
+	/*--ICPQAMMenuSvgColorFilter: none;*/
+	/*--ICPHeaderSvgColorFilter: none;*/
+
+
+	/*                            Steam Button Icon                                                                */
+
+	/* If using a Custom Steam Button Icon use this block*/
+
+	/* Custom Steam Button Image 100px x 36px*/
+	/*--ICPQAMSteamButtonDisplay: none;*/
+	/*--ICPQAMCustomSteamButtonDisplay: flex;*/
+	/*--ICPSteamButtonImage: url("/themes_custom/sdh-cpg/snes/imgs/steambutton100x36.png");*/
+
+	/************************************************************************************************************/
+
+	/* If using a Stock Steam Button Icon use this block*/
+	/* Stock Steam Button Icon */
+	/*--ICPQAMCSteamButtonDisplay: flex;*/
+	/*--ICPQAMCCustomSteamButtonDisplay: none;*/

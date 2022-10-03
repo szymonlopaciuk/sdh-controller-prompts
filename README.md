@@ -1,2 +1,1 @@
-# sdh-controller-prompts
-Steam Deck Handheld - Controller Prompts
+# Steam Deck Handheld - Controller Prompts

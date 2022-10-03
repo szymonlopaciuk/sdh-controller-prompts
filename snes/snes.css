@@ -1,0 +1,10 @@
+	/* Button Icons. If you want to use the default then use the default steamglyph image path or just delete the variable*/
+
+:root {
+	/* standard buttons */
+	--face-up:  url("/themes_custom/sdh-cpg/snes/imgs/shared_button_x.svg");
+	--face-dn:  url("/themes_custom/sdh-cpg/snes/imgs/shared_button_b.svg");
+	--face-lf:  url("/themes_custom/sdh-cpg/snes/imgs/shared_button_y.svg");
+	--face-rt:  url("/themes_custom/sdh-cpg/snes/imgs/shared_button_a.svg");
+	--menu-srt: url("/themes_custom/sdh-cpg/snes/imgs/sd_button_menu.svg");
+	--menu-slc: url("/themes_custom/sdh-cpg/snes/imgs/sd_button_view.svg");
