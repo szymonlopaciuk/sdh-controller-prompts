@@ -7,7 +7,7 @@
 	"manifest_version": 3,
 	"inject": {
 		"global.css": [
-			"SP"
+			"SP", "QuickAccess"
 		]
 	},
 	"patches": {
@@ -17,12 +17,12 @@
 			"values":{
 				"SNES": {
 					"snes/snes.css": [
-						"SP"
+						"SP", "QuickAccess"
 					]
 				},
 				"DS3": {
 					"ds3/ds3.css": [
-						"SP"
+						"SP", "QuickAccess"
 					]
 				}
 			}

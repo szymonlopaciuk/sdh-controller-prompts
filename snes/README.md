@@ -2,7 +2,7 @@
 
 ### Themes the Steam UI to use coloured SNES A/B/X/Y/START/SELECT icons
 
-![controller config / quick access menu](/images/Icon%20Packer/SNES/config-qam.jpg)
+![controller config / quick access menu](/.github/ds3/config-qam.jpg)
 
 ![library view](/images/Icon%20Packer/SNES/library.jpg)
 
