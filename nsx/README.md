@@ -1,9 +1,7 @@
-# SNES Button Prompts
+# Switch Button Prompts
 
-### Themes the Steam UI to use coloured SNES A/B/X/Y/START/SELECT icons
+### Greyscale Nintendo Switch-esque icons
 
-![controller config / quick access menu](/images/Icon%20Packer/SNES/config-qam.jpg)
+![controller config - face buttons](/.github/nsx/config-face.jpg)
 
-![library view](/images/Icon%20Packer/SNES/library.jpg)
-
-more info at [zeusofthecrows.github.io](https://zeusofthecrows.github.io/games/mods/nsx)
+![library view](/.github/nsx/library.jpg)
