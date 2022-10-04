@@ -1,0 +1,9 @@
+{
+	"include": [],
+	"ignore": [
+		"README.md",
+		"/LICENSE",
+		"/.gitignore",
+		"/.github/*",
+		"/template/*"]
+}

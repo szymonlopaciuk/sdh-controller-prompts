@@ -2,17 +2,17 @@
 
 :root {
 	/* standard buttons */
-	--face-up:  url("/themes_custom/prompts-galore/ds5/imgs/shared_button_t.svg");
-	--face-dn:  url("/themes_custom/prompts-galore/ds5/imgs/shared_button_x.svg");
-	--face-lf:  url("/themes_custom/prompts-galore/ds5/imgs/shared_button_s.svg");
-	--face-rt:  url("/themes_custom/prompts-galore/ds5/imgs/shared_button_o.svg");
-	--menu-srt: url("/themes_custom/prompts-galore/ds5/imgs/sd_button_options.svg");
-	--menu-slc: url("/themes_custom/prompts-galore/ds5/imgs/sd_button_create.svg");
+	--face-up:  url("/themes_custom/Button%20Prompts%20Galore/ds5/imgs/shared_button_t.svg");
+	--face-dn:  url("/themes_custom/Button%20Prompts%20Galore/ds5/imgs/shared_button_x.svg");
+	--face-lf:  url("/themes_custom/Button%20Prompts%20Galore/ds5/imgs/shared_button_s.svg");
+	--face-rt:  url("/themes_custom/Button%20Prompts%20Galore/ds5/imgs/shared_button_o.svg");
+	--menu-srt: url("/themes_custom/Button%20Prompts%20Galore/ds5/imgs/sd_button_options.svg");
+	--menu-slc: url("/themes_custom/Button%20Prompts%20Galore/ds5/imgs/sd_button_create.svg");
 
 	/* directional pad */
-	--dpad-nu: url("/themes_custom/prompts-galore/ds3/imgs/shared_dpad.svg");
-	--dpad-up: url("/themes_custom/prompts-galore/ds3/imgs/shared_dpad_up.svg");
-	--dpad-dn: url("/themes_custom/prompts-galore/ds3/imgs/shared_dpad_down.svg");
-	--dpad-lf: url("/themes_custom/prompts-galore/ds3/imgs/shared_dpad_left.svg");
-	--dpad-rt: url("/themes_custom/prompts-galore/ds3/imgs/shared_dpad_right.svg");
+	--dpad-nu: url("/themes_custom/Button%20Prompts%20Galore/ds3/imgs/shared_dpad.svg");
+	--dpad-up: url("/themes_custom/Button%20Prompts%20Galore/ds3/imgs/shared_dpad_up.svg");
+	--dpad-dn: url("/themes_custom/Button%20Prompts%20Galore/ds3/imgs/shared_dpad_down.svg");
+	--dpad-lf: url("/themes_custom/Button%20Prompts%20Galore/ds3/imgs/shared_dpad_left.svg");
+	--dpad-rt: url("/themes_custom/Button%20Prompts%20Galore/ds3/imgs/shared_dpad_right.svg");
 }

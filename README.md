@@ -13,7 +13,7 @@ install the theme from css loader plugin's theme browser
 
 ### dev info
 
-* the "view layout"<sup>1</sup> and "edit layout -> assign button"<sup>2</sup> screens could be edited: but the former is a data: img as a background image, and the latter is an inline svg in the html
+* the "view layout"<sup>1</sup> and "edit layout -> assign button"<sup>2</sup> screens could be edited: but the former is a `data:image` url as a background image, and the latter is an inline svg in the html
   
   * these could be fixed with `display: none;` and `::after`, but i don't think it's worth it
   1. ```html

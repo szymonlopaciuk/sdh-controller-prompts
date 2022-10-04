@@ -2,10 +2,10 @@
 
 :root {
 	/* standard buttons */
-	--face-up:  url("/themes_custom/prompts-galore/snes/imgs/shared_button_x.svg");
-	--face-dn:  url("/themes_custom/prompts-galore/snes/imgs/shared_button_b.svg");
-	--face-lf:  url("/themes_custom/prompts-galore/snes/imgs/shared_button_y.svg");
-	--face-rt:  url("/themes_custom/prompts-galore/snes/imgs/shared_button_a.svg");
-	--menu-srt: url("/themes_custom/prompts-galore/snes/imgs/sd_button_start.svg");
-	--menu-slc: url("/themes_custom/prompts-galore/snes/imgs/sd_button_select.svg");
+	--face-up:  url("/themes_custom/Button%20Prompts%20Galore/snes/imgs/shared_button_x.svg");
+	--face-dn:  url("/themes_custom/Button%20Prompts%20Galore/snes/imgs/shared_button_b.svg");
+	--face-lf:  url("/themes_custom/Button%20Prompts%20Galore/snes/imgs/shared_button_y.svg");
+	--face-rt:  url("/themes_custom/Button%20Prompts%20Galore/snes/imgs/shared_button_a.svg");
+	--menu-srt: url("/themes_custom/Button%20Prompts%20Galore/snes/imgs/sd_button_start.svg");
+	--menu-slc: url("/themes_custom/Button%20Prompts%20Galore/snes/imgs/sd_button_select.svg");
 }
