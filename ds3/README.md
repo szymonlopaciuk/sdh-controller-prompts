@@ -1,7 +1,7 @@
-# Dualsense Button Prompts
+# Dualshock Button Prompts
 
-### Greyscale dualsense-esque icons
+**Coloured dualshock-esque icons**
 
-![controller config - face buttons](/.github/ds5/config-face.jpg)
+![controller config - face buttons](/.github/ds3/config-face.jpg)
 
-![controller config - dpad buttons](/.github/ds5/config-dpad.jpg)
+![library view](/.github/ds3/library.jpg)
