@@ -1,4 +1,13 @@
-# Steam Deck Handheld - Controller Prompts
+# Steam Deck Handheld - Button Prompts Galore
+
+for use with:
+
+* [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader)
+* [CSS Loader Plugin](https://github.com/suchmememanyskill/SDH-CssLoader)
+
+install the theme from css loader plugin's theme browser
+
+![composite preview image](/.github/preview.jpg)
 
 ---
 
@@ -13,6 +22,6 @@
   
   2. ```html
      <div class="controllerconfiguratorchoosebinding_Column_2Pibl Panel Focusable">
-     	<svg xmlns="http://www.w3.org/2000/svg" viewBox="150 0 1120 730" fill="none" class="controllerconfiguratorchoosebinding_GamepadPreview_GENH-"></svg>
+         <svg xmlns="http://www.w3.org/2000/svg" viewBox="150 0 1120 730" fill="none" class="controllerconfiguratorchoosebinding_GamepadPreview_GENH-"></svg>
      </div>
      ```
