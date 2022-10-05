@@ -1,4 +1,9 @@
 {
 	"include": [],
-	"ignore": ["*.md"]
+	"ignore": [
+		"snes/README.md",
+		"nsx/README.md",
+		"ds3/README.md",
+		"ds5/README.md"
+	]
 }
