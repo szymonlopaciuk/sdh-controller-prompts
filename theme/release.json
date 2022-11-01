@@ -33,17 +33,17 @@
 		"ds5/imgs/sd_button_create.svg",
 		"ds5/imgs/shared_button_o.svg",
 		"ds5/imgs/shared_dpad_left.svg",
-		"ds5/imgs/shared_dpad_down.svg"
+		"ds5/imgs/shared_dpad_down.svg",
 		"xbox/imgs/shared_button_y.svg",
 		"xbox/imgs/shared_button_a.svg",
 		"xbox/imgs/shared_button_x.svg",
-		"xbox/imgs/shared_button_b.svg",
+		"xbox/imgs/shared_button_b.svg"
 	],
 	"ignore": [
 		"snes/README.md",
 		"nsx/README.md",
 		"ds3/README.md",
-		"ds5/README.md"
-		"xbox/README.md",
+		"ds5/README.md",
+		"xbox/README.md"
 	]
 }
