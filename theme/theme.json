@@ -1,9 +1,9 @@
 {
 	"name": "Button Prompts Galore",
-	"version": "v1.1",
-	"author": "ZeusOfTheCrows",
+	"version": "v1.2",
+	"author": "ZeusOfTheCrows, InsaneCallum",
 	"target": "Tweak",
-	"description": "change controller button prompts. includes snes, switch, dualshock 3 & 5, & xbox [coloured]",
+	"description": "change controller button prompts. includes snes, switch, dualshock 2 & 3, DualSense, & xbox [coloured]",
 	"manifest_version": 3,
 	"inject": {
 		"global.css": ["SP", "QuickAccess"]
@@ -19,7 +19,10 @@
 				"Switch": {
 					"nsx/nsx.css": ["SP", "QuickAccess"]
 				},
-				"DualShock": {
+				"DualShock 2": {
+					"ds2/ds2.css": ["SP", "QuickAccess"]
+				},
+				"DualShock 3": {
 					"ds3/ds3.css": ["SP", "QuickAccess"]
 				},
 				"DualSense": {
