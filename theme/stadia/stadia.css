@@ -1,0 +1,13 @@
+	/* Button Icons. If you want to use the default then use the default steamglyph image path or just delete the variable*/
+
+:root {
+	/* "Select" and "start" */
+    --zbpg-menu-slc: url("/themes_custom/Button%20Prompts%20Galore/ds5/imgs/sd_button_menu.svg");
+	--zbpg-menu-srt: url("/themes_custom/Button%20Prompts%20Galore/ds5/imgs/sd_button_options.svg");
+
+    /* Steam button icon */
+    /* Custom Steam Button Image 100px x 36px*/
+    --ICPQAMSteamButtonDisplay: none;
+    --ICPQAMCustomSteamButtonDisplay: flex;
+    --ICPSteamButtonImage: url("/themes_custom/Button%20Prompts%20Galore/ds5/imgs/sd_button_stadia.svg");
+}
