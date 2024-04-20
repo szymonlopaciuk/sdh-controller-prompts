@@ -131,3 +131,29 @@
 	img[src="/steaminputglyphs/shared_gyro.svg"]{
 		content: var(--zbpg-gyro, url("/steaminputglyphs/shared_gyro.svg"));
 	}
+    img[src="/steaminputglyphs/xbox_button_logo.svg"]{
+        content: var(--zbpg-xbox, url("/steaminputglyphs/xbox_button_logo.svg"));
+    }
+
+/* xbox controller icons (coloured letters + menu + view) */
+    img[src="/steaminputglyphs/xbox_button_logo.svg"]{
+        content: var(--zbpg-xbox-btn, url("/steaminputglyphs/xbox_button_logo.svg"));
+    }
+    img[src="/steaminputglyphs/xbox_button_select.svg"]{
+        content: var(--zbpg-xbox-slc, url("/steaminputglyphs/xbox_button_select.svg"));
+    }
+    img[src="/steaminputglyphs/xbox_button_start.svg"]{
+        content: var(--zbpg-xbox-srt, url("/steaminputglyphs/xbox_button_start.svg"));
+    }
+    img[src="/steaminputglyphs/shared_color_button_a.svg"]{
+        content: var(--zbpg-xbox-a, url("/steaminputglyphs/shared_color_button_a.svg"));
+    }
+    img[src="/steaminputglyphs/shared_color_button_b.svg"]{
+        content: var(--zbpg-xbox-b, url("/steaminputglyphs/shared_color_button_b.svg"));
+    }
+    img[src="/steaminputglyphs/shared_color_button_x.svg"]{
+        content: var(--zbpg-xbox-x, url("/steaminputglyphs/shared_color_button_x.svg"));
+    }
+    img[src="/steaminputglyphs/shared_color_button_y.svg"]{
+        content: var(--zbpg-xbox-y, url("/steaminputglyphs/shared_color_button_y.svg"));
+    }

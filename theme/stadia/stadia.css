@@ -2,12 +2,13 @@
 
 :root {
 	/* "Select" and "start" */
-    --zbpg-menu-slc: url("/themes_custom/Button%20Prompts%20Galore/ds5/imgs/sd_button_menu.svg");
-	--zbpg-menu-srt: url("/themes_custom/Button%20Prompts%20Galore/ds5/imgs/sd_button_options.svg");
-
-    /* Steam button icon */
-    /* Custom Steam Button Image 100px x 36px*/
-    --ICPQAMSteamButtonDisplay: none;
-    --ICPQAMCustomSteamButtonDisplay: flex;
-    --ICPSteamButtonImage: url("/themes_custom/Button%20Prompts%20Galore/ds5/imgs/sd_button_stadia.svg");
+    --zbpg-xbox-slc: url("/themes_custom/Button%20Prompts%20Galore/stadia/imgs/sd_button_menu.svg");
+    --zbpg-xbox-srt: url("/themes_custom/Button%20Prompts%20Galore/stadia/imgs/sd_button_options.svg");
+    /* Use monochrome A, B, X, Y instead of coloured ones */
+    --zbpg-xbox-a: url("/steaminputglyphs/shared_button_a.svg");
+    --zbpg-xbox-b: url("/steaminputglyphs/shared_button_b.svg");
+    --zbpg-xbox-x: url("/steaminputglyphs/shared_button_x.svg");
+    --zbpg-xbox-y: url("/steaminputglyphs/shared_button_y.svg");
+    /* Change Xbox button to Stadia */
+    --zbpg-xbox-btn: url("/themes_custom/Button%20Prompts%20Galore/stadia/imgs/sd_button_stadia.svg");
 }
