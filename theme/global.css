@@ -139,6 +139,12 @@
     img[src="/steaminputglyphs/xbox_button_logo.svg"]{
         content: var(--zbpg-xbox-btn, url("/steaminputglyphs/xbox_button_logo.svg"));
     }
+    img[src="/steaminputglyphs/xbox360_button_select.svg"]{
+        content: var(--zbpg-xbox360-slc, url("/steaminputglyphs/xbox360_button_select.svg"));
+    }
+    img[src="/steaminputglyphs/xbox360_button_start.svg"]{
+        content: var(--zbpg-xbox360-srt, url("/steaminputglyphs/xbox360_button_start.svg"));
+    }
     img[src="/steaminputglyphs/xbox_button_select.svg"]{
         content: var(--zbpg-xbox-slc, url("/steaminputglyphs/xbox_button_select.svg"));
     }

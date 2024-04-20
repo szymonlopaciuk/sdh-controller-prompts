@@ -2,8 +2,8 @@
 
 :root {
 	/* "Select" and "start" */
-    --zbpg-xbox-slc: url("/themes_custom/Button%20Prompts%20Galore/stadia/imgs/sd_button_menu.svg");
-    --zbpg-xbox-srt: url("/themes_custom/Button%20Prompts%20Galore/stadia/imgs/sd_button_options.svg");
+    --zbpg-xbox360-slc: url("/themes_custom/Button%20Prompts%20Galore/stadia/imgs/sd_button_menu.svg");
+    --zbpg-xbox360-srt: url("/themes_custom/Button%20Prompts%20Galore/stadia/imgs/sd_button_options.svg");
     /* Use monochrome A, B, X, Y instead of coloured ones */
     --zbpg-xbox-a: url("/steaminputglyphs/shared_button_a.svg");
     --zbpg-xbox-b: url("/steaminputglyphs/shared_button_b.svg");
