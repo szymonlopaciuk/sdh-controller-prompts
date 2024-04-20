@@ -1,7 +1,7 @@
 {
 	"name": "Button Prompts Galore",
 	"version": "v1.2",
-	"author": "ZeusOfTheCrows, InsaneCallum", "szymonlopaciuk",
+	"author": "ZeusOfTheCrows, InsaneCallum, szymonlopaciuk",
 	"target": "Tweak",
 	"description": "change controller button prompts. includes snes, switch, dualshock 2 & 3, DualSense, Stadia, & xbox [coloured]",
 	"manifest_version": 3,
